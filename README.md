@@ -1,6 +1,6 @@
 # Spaghetti's Notepad
-This is a simple Java based notepad that i made in a day.
-As of right now it isn't capable of anything excpect writing and deleting text (useless as you still can't save your text).
+This is a simple very light-weight Java based notepad that i made in a day.
+As of right now it isn't capable of anything much excpect writing, deleting, and saving text
 
 Notepad directory: SpaghettisNotepad -> Spaghettis Notepad.jar
 
