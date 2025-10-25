@@ -4,5 +4,8 @@ As of right now it isn't capable of anything excpect writing and deleting text (
 
 Notepad directory: SpaghettisNotepad -> Spaghettis Notepad.jar
 
-To-Do:
-  1. Add a Save and Save As option
+
+Finished Tasks:
+  1. Ability to type letters, numbers, and symbols.
+  2. Ability to delete letters, numbers, and symbols.
+  3. Ability to save your file and change it's name.
