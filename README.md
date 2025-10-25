@@ -9,3 +9,6 @@ Finished Tasks:
   1. Ability to type letters, numbers, and symbols.
   2. Ability to delete letters, numbers, and symbols.
   3. Ability to save your file and change it's name.
+
+Planned:
+  1. Ability to edit .txt files
