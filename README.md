@@ -12,3 +12,5 @@ Finished Tasks:
 
 Planned:
   1. Ability to edit .txt files
+  2. Ability to open multiple tabs
+  3. Ability to choose a directory to save the file
